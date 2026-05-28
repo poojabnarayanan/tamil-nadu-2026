@@ -242,7 +242,7 @@ Compared electoral patterns across:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone [repository-link]
+git clone https://github.com/poojabnarayanan/tamil-nadu-2026
 ```
 
 ---
