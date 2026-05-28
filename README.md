@@ -336,13 +336,13 @@ README.md
 
 
 
-[Link to dashboard]https://app.powerbi.com/view?r=eyJrIjoiMzBhZGI5M2YtZjQwZS00ZDY1LWI4NTctYjllMzU2MWVjNGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c3bcb22fa7ac596d5a79 
+[Link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhZGI5M2YtZjQwZS00ZDY1LWI4NTctYjllMzU2MWVjNGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c3bcb22fa7ac596d5a79)
 
 ---
 
 # 📹 Video Walkthrough
 
-[Link]https://drive.google.com/file/d/1sr63ZfPr-MpOkiJWt6ragVVxwLd-HH1g/view 
+[Link](https://drive.google.com/file/d/1sr63ZfPr-MpOkiJWt6ragVVxwLd-HH1g/view)
 
 ---
 
