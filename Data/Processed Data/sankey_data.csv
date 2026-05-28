@@ -1,0 +1,7 @@
+source,target,count
+AIADMK+,AIADMK+,25
+AIADMK+,DMK+,20
+AIADMK+,TVK,30
+DMK+,AIADMK+,28
+DMK+,DMK+,53
+DMK+,TVK,78
