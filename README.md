@@ -46,7 +46,7 @@ Using Python, Pandas, and Power BI, the project transforms raw election data int
 
 # 🎯 Problem Statement
 
-AtliQ News Network aims to build a data-driven election storytelling presentation that uses only public Election Commission of India (ECI) data to understand how Tamil Nadu’s political landscape evolved between the 2021 and 2026 Assembly Elections.
+AtliQ Media aims to build a data-driven election storytelling presentation that uses only public Election Commission of India (ECI) data to understand how Tamil Nadu’s political landscape evolved between the 2021 and 2026 Assembly Elections.
 
 ---
 
@@ -327,6 +327,7 @@ README.md
 
 # 📷 Dashboard Preview
 
+
 <img width="1920" height="1200" alt="intropage" src="https://github.com/user-attachments/assets/e779bee3-077a-4916-becf-b49d37ec5986" />
 
 <img width="1920" height="1200" alt="flipanalysis" src="https://github.com/user-attachments/assets/5bbd66e2-9b2a-42db-a9d0-e3badf249a12" />
@@ -334,11 +335,14 @@ README.md
 <img width="1920" height="1200" alt="competitionanalysis" src="https://github.com/user-attachments/assets/4d2457e2-e910-4991-ac14-e284740d436a" />
 
 
+
+[Link to dashboard]https://app.powerbi.com/view?r=eyJrIjoiMzBhZGI5M2YtZjQwZS00ZDY1LWI4NTctYjllMzU2MWVjNGUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c3bcb22fa7ac596d5a79 
+
 ---
 
 # 📹 Video Walkthrough
 
-(YouTube / Loom link )
+[Link]https://drive.google.com/file/d/1sr63ZfPr-MpOkiJWt6ragVVxwLd-HH1g/view 
 
 ---
 
